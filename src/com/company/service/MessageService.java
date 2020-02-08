@@ -3,7 +3,7 @@ package com.company.service;
 class MessageService {
 
   private static final String BEGIN_TEXT =
-      "Rules:\n" + "20 matches on thetable.\n" + "You take 1, 2 or 3 matches.\n"
+      "Rules:\n" + "20 matches on the table.\n" + "You take 1, 2 or 3 matches.\n"
           + "If you take last match, you lose.\n\n";
 
   //Start game, write rules
